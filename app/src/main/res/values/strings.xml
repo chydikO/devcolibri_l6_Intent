@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">devcolibri_l6_Intent</string>
+    <string name="btn_next_activity">Button</string>
+    <string name="back">Back</string>
+</resources>
